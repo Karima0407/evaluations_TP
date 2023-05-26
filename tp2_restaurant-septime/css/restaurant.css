@@ -1,0 +1,67 @@
+.contenu {
+  margin: auto;
+  width: 1400px;
+}
+.bb {
+  color: #905848;
+  border-bottom: 2px solid black;
+  text-align: center;
+}
+
+h1 {
+  border-bottom: 2px solid black;
+  text-align: center;
+}
+.tt {
+  color: black;
+  text-align: center;
+}
+section {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.p1 {
+  margin-top: 200px;
+}
+.lasalle {
+  border-bottom: 1px solid black;
+  text-align: left;
+}
+.tu {
+  width: 500px;
+}
+.lanote {
+  background-color: black;
+  color: white;
+}
+img {
+  margin-left: 30px;
+}
+.rr {
+  padding-right: 300px;
+}
+.yoi {
+  margin-top: 200px;
+  margin-left: 100px;
+}
+.to {
+  margin-top: 200px;
+  padding-left: 100px;
+}
+.lp {
+  margin-top: 200px;
+  margin-left: 150px;
+}
+.ftrr {
+  padding-left: 600px;
+  margin-top: 100px;
+  border-bottom: 1px solid black;
+}
+.sep {
+  border-bottom: 1px solid black;
+  border-top: 1px solid black;
+}
+.yy {
+  text-align: center;
+}
